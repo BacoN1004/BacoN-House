@@ -1,0 +1,52 @@
+#title {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+body {
+    text-align: center;
+}
+#IG {
+    border: none;
+    background-color: violet;
+    border-radius: 7px;
+    font-size: 30px;
+    padding: 3px;
+    transition-duration: 0.3s;
+
+}
+#YT {
+    border: none;
+    background-color:red;
+    border-radius: 7px;
+    font-size: 30px;
+    padding: 3px;
+    transition-duration: 0.3s;
+
+}
+#IG:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    font-size: 40px;
+}
+#YT:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    font-size: 40px;
+}
+#BacoN {
+    border-radius: 50%;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+#GH {
+    border: none;
+    color: white;
+    background-color:black;
+    border-radius: 7px;
+    font-size: 30px;
+    padding: 3px;
+    transition-duration: 0.3s;
+
+}
+#GH:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    font-size: 40px;
+}
