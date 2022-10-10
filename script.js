@@ -7,3 +7,6 @@ var instagram = function(){
 var github = function(){
     window.location = "https://github.com/BacoN1004";
 }
+var discord = function(){
+    window.location = "https://discord.gg/fdHw2A48VX";
+}
